@@ -33,7 +33,7 @@ Git para clonar el repositorio
 
 Instalación y Configuración
 Clonar el repositorio:
-git clone https://github.com/SantiagoLozanoGi/microservices-app.git
+git clone https://github.com/Erika0510/microservices-app.git
 cd microservices-app
 Construir e iniciar los contenedores:
 docker compose up -d --build
